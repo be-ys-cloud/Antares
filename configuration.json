@@ -1,0 +1,15 @@
+[
+  {
+    "engine": "gitlab",
+    "paths": [
+      "/project1/",
+      "/project2/secret"
+    ]
+  },
+  {
+    "engine": "home",
+    "paths": [
+      "/"
+    ]
+  }
+]
